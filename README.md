@@ -1,4 +1,4 @@
-# C# Temel Konular - Stajyer Örnekleri
+# C# Temel Konular -  Örnekleri
 
 Bu proje, stajyer arkadaşlar için C# temel konularında kapsamlı örnekler içermektedir. Her konu için ayrı bir solution ve detaylı açıklamalar bulunmaktadır.
 
